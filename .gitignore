@@ -31,6 +31,9 @@
 *.out
 *.app
 
+*.js
+*.mjs
+
 .vs/
 .vscode/
 .idea/
